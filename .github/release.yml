@@ -1,0 +1,20 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - imob-jenkins
+  categories:
+    - title: Stories 🎉
+      labels:
+        - Story
+    - title: Bugs & Defects 🐞
+      labels:
+        - Bug
+        - Defect
+    - title: Operations 🛠
+      labels:
+        - Operations
+    - title: Other
+      labels:
+        - "*"
